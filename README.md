@@ -5,6 +5,7 @@
 TODO: Replace with your team members
 Hector Moreno
 Yara Salamah
+Guillermo Jimenez
 
 ## How to run the streamlit app
 
